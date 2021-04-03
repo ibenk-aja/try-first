@@ -5,4 +5,10 @@ my first repo, TRY with git
 
 work in progress ..
 
+CREDIT
+
+- [](http://pad.haroopress.com/) markdown viewer & editor
+- [picview](https://picview.org/) a picture viewer
+- [caesium](https://saerasoft.com/caesium/) an image compressor
+
 [:)](https://github.portacode.com/ibenk-aja/try-first)
