@@ -5,9 +5,9 @@ my first repo, TRY with git
 
 work in progress ..
 
-CREDIT
+TOOLS
 
-- [](http://pad.haroopress.com/) markdown viewer & editor
+- [Haroopad](http://pad.haroopress.com/) markdown viewer & editor
 - [picview](https://picview.org/) a picture viewer
 - [caesium](https://saerasoft.com/caesium/) an image compressor
 
